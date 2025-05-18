@@ -9,6 +9,7 @@ module "sandbox" {
     SSOUserFirstName          = "DeploySphereSandbox"
     SSOUserLastName           = "User"
   }
+  
 
   account_tags = {
     "Learn Tutorial" = "AFT"
